@@ -1,2 +1,2 @@
 # helloWorld
-Just my first repository ¯\_(ツ)_/¯
+Just my first repository ¯\\_(ツ)_/¯
